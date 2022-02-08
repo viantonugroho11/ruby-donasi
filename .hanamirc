@@ -1,0 +1,3 @@
+project=donasi_ruby
+test=rspec
+template=erb
